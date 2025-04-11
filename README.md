@@ -8,3 +8,7 @@ https://www.canva.com/design/DAGfsUlBczg/BROQnyf5mkk6I0C2erJTCw/view?utm_content
 ## Segunda atividade: Usando fórmulas e dados abertos no Excel
 https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Student%20Work/Working%20files/LEONARDO%20RODOLFO%20SILVA/Usando%20f%C3%B3rmulas%20e%20dados%20abertos/leonardorodolfologn.xlsx?d=wa5d02ec876ce4ef68c5eac6556d51572&csf=1&web=1&e=5cxon7
 ![Captura de tela 2025-03-21 203548](https://github.com/user-attachments/assets/ac4c9630-53d0-4c94-85e0-1d1022732f03)
+
+## Terceira atividade: Power BI, dados abertos
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/ana_tome2_fatec_sp_gov_br/EYs-V0ACrRFCi3IqnxBTVMcBJF2EB5YytnlbeKABNPkGIA?e=L5nMsI
+![image](https://github.com/user-attachments/assets/00153b63-50d4-43f4-aae2-25f7b026da89)
