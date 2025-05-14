@@ -13,3 +13,5 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 https://fatecspgov-my.sharepoint.com/:x:/g/personal/ana_tome2_fatec_sp_gov_br/EYs-V0ACrRFCi3IqnxBTVMcBJF2EB5YytnlbeKABNPkGIA?e=L5nMsI
 ![image](https://github.com/user-attachments/assets/00153b63-50d4-43f4-aae2-25f7b026da89)
 https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c32ca6e1cd7028bb55d6?experience=power-bi
+
+![Captura de tela 2025-05-13 213455](https://github.com/user-attachments/assets/633b8b8e-12db-4ea6-bd39-625754661140)
