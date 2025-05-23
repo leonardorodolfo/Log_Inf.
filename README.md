@@ -18,4 +18,3 @@ https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c
 ![Captura de tela 2025-05-13 213455](https://github.com/user-attachments/assets/633b8b8e-12db-4ea6-bd39-625754661140)
 ![Captura de tela 2025-05-13 220544](https://github.com/user-attachments/assets/9d7362e1-7c5b-4b48-958e-953f44f2bbf2)
 ![Captura de tela 2025-05-13 221229](https://github.com/user-attachments/assets/45c59ce7-a25c-40ba-91b9-f4665048f6e8)
-![Captura de tela 2025-05-22 215732](https://github.com/user-attachments/assets/4e84f5e5-3dc2-4208-8c39-47e282f0cfe1)
