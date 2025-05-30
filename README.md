@@ -19,4 +19,8 @@ https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c
 ![Captura de tela 2025-05-13 220544](https://github.com/user-attachments/assets/9d7362e1-7c5b-4b48-958e-953f44f2bbf2)
 ![Captura de tela 2025-05-13 221229](https://github.com/user-attachments/assets/45c59ce7-a25c-40ba-91b9-f4665048f6e8)
 
-## Quinta atividade: 
+## Quinta atividade: Excel Machine Learning
+![Captura de tela 2025-05-30 201651](https://github.com/user-attachments/assets/aaad2450-c230-4d75-813c-80ceca262967)
+![Captura de tela 2025-05-30 201448](https://github.com/user-attachments/assets/4a14f616-a70b-4347-8cce-127ce15eaaea)
+![Captura de tela 2025-05-30 202435](https://github.com/user-attachments/assets/049af9be-0052-41a0-b5b2-6e1887d6f4ca)
+
