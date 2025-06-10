@@ -24,3 +24,7 @@ https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c
 ![Captura de tela 2025-05-30 201448](https://github.com/user-attachments/assets/4a14f616-a70b-4347-8cce-127ce15eaaea)
 ![Captura de tela 2025-05-30 202435](https://github.com/user-attachments/assets/049af9be-0052-41a0-b5b2-6e1887d6f4ca)
 
+## Sexta atividade: Power Automate e Power Apps
+![image](https://github.com/user-attachments/assets/2900965b-ea3a-403c-8ba2-821d8bd7a770)
+
+
