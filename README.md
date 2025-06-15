@@ -26,5 +26,6 @@ https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c
 
 ## Sexta atividade: Power Automate e Power Apps
 ![image](https://github.com/user-attachments/assets/2900965b-ea3a-403c-8ba2-821d8bd7a770)
-
+![Editar o fluxo _ Power Automate - Google Chrome 15_06_2025 12_52_39](https://github.com/user-attachments/assets/2e4d0703-90ec-4a8d-ba5a-f995a9add2f0)
+![Base_Indicadores_Logisticos_Exemplo xlsx - Google Chrome 15_06_2025 13_03_58](https://github.com/user-attachments/assets/89eadb51-b668-4324-8ef3-ffedbccda0db)
 
